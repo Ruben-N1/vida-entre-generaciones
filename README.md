@@ -61,12 +61,5 @@ El proyecto integra un formulario web y un escenario de Make para facilitar la c
 Las conclusiones sobre qué hábitos son más sustentables deben basarse en las respuestas recopiladas. El análisis del agente sirve como apoyo para esa reflexión y debe revisarse a partir de lo expresado por las personas entrevistadas.
 
 ## Resultados
-La página presenta la comparación recibida de Make como texto plano, conservando los saltos de línea. El escenario está diseñado para organizar la respuesta en comparación por tema, análisis y conclusiones.
 
-- [Captura de la página](imagenes/pagina-web.png)
-- [Captura del escenario de Make](imagenes/escenario-make.png)
-- [Video de prueba](video/VideoPrueba.mp4)
-
-La carpeta [resultados](resultados/) está disponible para agregar el reporte o las evidencias del análisis de las entrevistas.
-
-- [Informe: reflexión sobre estilos de vida entre generaciones (PDF)](resultados/Informe_estilos_de_vida.pdf)
+[reporte](resultados/Informe_estilos_de_vida.pdf)
