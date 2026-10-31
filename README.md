@@ -67,4 +67,6 @@ La página presenta la comparación recibida de Make como texto plano, conservan
 - [Captura del escenario de Make](imagenes/escenario-make.png)
 - [Video de prueba](video/VideoPrueba.mp4)
 
-La carpeta [resultados](resultados/) está disponible para agregar el reporte o las evidencias del análisis de las entrevistas; actualmente no contiene un reporte.
+La carpeta [resultados](resultados/) está disponible para agregar el reporte o las evidencias del análisis de las entrevistas.
+
+- [Informe: reflexión sobre estilos de vida entre generaciones (PDF)](resultados/Informe_estilos_de_vida.pdf)
