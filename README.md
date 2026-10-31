@@ -46,14 +46,14 @@ Para reutilizar el escenario, importa el blueprint en Make, configura sus conexi
 
 El video de prueba no contiene audio.
 
-## Evidencias del proyecto
+## Imágenes
 Página de captura de las entrevistas:
 
-<img src="imagenes/pagina-web.png" alt="Página Estilos de vida entre generaciones con los formularios de Abuelo/a, Padre/Madre y Amigo/a" width="800">
+<img src="imagenes/pagina-web.png" alt="Página Estilos de vida entre generaciones con los formularios de Abuelo/a, Padre/Madre y Amigo/a" width="350">
 
 Integración del formulario con Make:
 
-<img src="imagenes/escenario-make.png" alt="Flujo de automatización del análisis de las entrevistas en Make" width="800">
+<img src="imagenes/escenario-make.png" alt="Flujo de automatización del análisis de las entrevistas en Make" width="350">
 
 ## Conclusiones
 El proyecto integra un formulario web y un escenario de Make para facilitar la comparación de hábitos de consumo entre generaciones. Las entrevistas permiten reflexionar sobre prácticas que pueden contribuir al cuidado del ambiente.
