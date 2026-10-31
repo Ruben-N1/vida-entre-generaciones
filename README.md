@@ -42,9 +42,7 @@ El escenario de Make debe estar activo y conectado al webhook configurado en `WE
 Para reutilizar el escenario, importa el blueprint en Make, configura sus conexiones y sustituye `WEBHOOK_URL` por la dirección de tu propio webhook.
 
 ## Video del funcionamiento
-[Ver VideoPrueba.mp4](video/VideoPrueba.mp4)
-
-El video de prueba no contiene audio.
+[![Ver video del funcionamiento](https://img.youtube.com/vi/OdcTT032E6s/hqdefault.jpg)](https://youtu.be/OdcTT032E6s)
 
 ## Imágenes
 Página de captura de las entrevistas:
